@@ -1,7 +1,7 @@
 プログラミング演習講義メモ
 =========================
 
-## 第二回以降
+## 第三回以降
 
 - rvm, ruby, rails 導入
   - [開発環境設定資料](https://github.com/DevelopmentPractice201308/material/blob/master/installation.md)
