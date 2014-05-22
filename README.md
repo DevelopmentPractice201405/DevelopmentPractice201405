@@ -1,16 +1,19 @@
 プログラミング演習講義メモ
 =========================
 
-## 第四回以降
+## 第五回以降
 
-- Git および Github 演習
-  - [Git Handson](https://github.com/yamanetoshi/Git-Handson/blob/master/tutorial.md)
-  - [Git でやり直す方法](https://github.com/yamanetoshi/Git-Handson/blob/master/retry.md)
+- [RailsTutorial](http://railstutorial.jp) 着手
+  - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
+  - 
+## 第五回 (2014.5.28)
+
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
 
 ## 第四回 (2014.5.22)
 
+- vimtutor 演習
 - Git および Github 演習
   - [Git Handson](https://github.com/yamanetoshi/Git-Handson/blob/master/tutorial.md)
   - [Git でやり直す方法](https://github.com/yamanetoshi/Git-Handson/blob/master/retry.md)
