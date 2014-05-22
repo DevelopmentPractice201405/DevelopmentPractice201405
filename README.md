@@ -10,6 +10,7 @@
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
+  - 実質 [ここ](http://railstutorial.jp/chapters/beginning?version=3.2#sec-the_first_application) からとなる予定。
 
 ## 第四回 (2014.5.22)
 
