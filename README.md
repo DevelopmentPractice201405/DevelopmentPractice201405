@@ -5,7 +5,7 @@
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
-  - 
+
 ## 第五回 (2014.5.28)
 
 - [RailsTutorial](http://railstutorial.jp) 着手
