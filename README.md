@@ -18,6 +18,8 @@
   - [Git Handson](https://github.com/yamanetoshi/Git-Handson/blob/master/tutorial.md)
   - [Git でやり直す方法](https://github.com/yamanetoshi/Git-Handson/blob/master/retry.md)
 
+- ssh 鍵の作成と GitHub への登録など
+
 ## 第三回 (2014.5.14)
 
 - Bourne Shell 自習テキストに関する課題発表
