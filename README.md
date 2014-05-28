@@ -1,16 +1,34 @@
 プログラミング演習講義メモ
 =========================
 
-## 第五回以降
+## 第六回以降
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
+  - [1.4 節](http://railstutorial.jp/chapters/beginning?version=3.2#sec-deploying) が継続
+
+## 第六回 (2014.6.6) 4 コマ
+
+- 前提として以下の節を完了していること
+  - [1.2](http://railstutorial.jp/chapters/beginning?version=3.2#sec-the_first_application)
+  - [1.3](http://railstutorial.jp/chapters/beginning?version=3.2#sec-version_control)
+- [Heroku](http://www.heroku.com) のアカウント取得しておいてください
+  - ssh 鍵の登録も必要です
+  - [heroku toolbelt](http://toolbelt.heroku.com) の導入も必要です
+
+    $ wget https://toolbelt.heroku.com/install-ubuntu.sh
+    $ bash install-ubuntu.sh
+
+- [1.4 デプロイする](http://railstutorial.jp/chapters/beginning?version=3.2#sec-deploying) から開始
+
 
 ## 第五回 (2014.5.28) 3 コマ
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
   - 実質 [ここ](http://railstutorial.jp/chapters/beginning?version=3.2#sec-the_first_application) からとなる予定。
+  - [1.2](http://railstutorial.jp/chapters/beginning?version=3.2#sec-the_first_application)
+  - [1.3](http://railstutorial.jp/chapters/beginning?version=3.2#sec-version_control)
 
 ## 第四回 (2014.5.22) 4 コマ
 
