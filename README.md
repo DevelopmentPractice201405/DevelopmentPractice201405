@@ -16,8 +16,10 @@
   - ssh 鍵の登録も必要です
   - [heroku toolbelt](http://toolbelt.heroku.com) の導入も必要です
 
-    $ wget https://toolbelt.heroku.com/install-ubuntu.sh
-    $ bash install-ubuntu.sh
+以下のコマンド入力が必要と思われます。
+
+        $ wget https://toolbelt.heroku.com/install-ubuntu.sh
+        $ bash install-ubuntu.sh
 
 - [1.4 デプロイする](http://railstutorial.jp/chapters/beginning?version=3.2#sec-deploying) から開始
 
