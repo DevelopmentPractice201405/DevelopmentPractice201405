@@ -1,11 +1,17 @@
 プログラミング演習講義メモ
 =========================
 
-## 第六回以降
+## 第七回以降
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
-  - [1.4 節](http://railstutorial.jp/chapters/beginning?version=3.2#sec-deploying) が継続
+  - [第三章 ほぼ静的なページの作成](http://railstutorial.jp/chapters/static-pages?version=3.2#top) が継続
+
+## 第七回 (2014.6.9) 4 コマ
+
+- [第三章 ほぼ静的なページの作成](http://railstutorial.jp/chapters/static-pages?version=3.2#top) 
+- [プログラミング演習のグループ](https://github.com/DevelopmentPractice201405) にリポジトリを作成し、そこに成果物を push して頂きます
+  - このリポジトリが成績に直結していると考えてください
 
 ## 第六回 (2014.6.6) 4 コマ
 
@@ -22,6 +28,7 @@
         $ bash install-ubuntu.sh
 
 - [1.4 デプロイする](http://railstutorial.jp/chapters/beginning?version=3.2#sec-deploying) から開始
+- [第二章 デモアプリケーション](http://railstutorial.jp/chapters/a-demo-app?version=3.2#top) 終了
 
 
 ## 第五回 (2014.5.28) 3 コマ
