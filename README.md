@@ -9,7 +9,7 @@
 
 ## 第七回 (2014.6.9) 4 コマ
 
-- [第三章 ほぼ静的なページの作成](http://railstutorial.jp/chapters/static-pages?version=3.2#top) 
+- [第三章 ほぼ静的なページの作成](http://railstutorial.jp/chapters/static-pages?version=3.2#top) から着手
 - [プログラミング演習のグループ](https://github.com/DevelopmentPractice201405) にリポジトリを作成し、そこに成果物を push して頂きます
   - このリポジトリが成績に直結していると考えてください
 
