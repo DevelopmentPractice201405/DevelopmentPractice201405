@@ -1,11 +1,17 @@
 プログラミング演習講義メモ
 =========================
 
-## 第七回以降
+## 第八回以降
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
-  - [第三章 ほぼ静的なページの作成](http://railstutorial.jp/chapters/static-pages?version=3.2#top) が継続
+  - [第四章 Rails風味のRuby](http://railstutorial.jp/chapters/rails-flavored-ruby?version=3.2#top) が継続
+
+## 第八回 4 コマ
+
+- [第四章 Rails風味のRuby](http://railstutorial.jp/chapters/rails-flavored-ruby?version=3.2#top) が継続
+
+リポジトリの登録および報告をお願いします。
 
 ## 第七回 (2014.6.9) 4 コマ
 
