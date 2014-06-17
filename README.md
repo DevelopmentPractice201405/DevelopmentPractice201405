@@ -7,7 +7,7 @@
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
   - [第四章 Rails風味のRuby](http://railstutorial.jp/chapters/rails-flavored-ruby?version=3.2#top) が継続
 
-## 第八回 4 コマ
+## 第八回 (2014.6.18) 4 コマ
 
 - [第四章 Rails風味のRuby](http://railstutorial.jp/chapters/rails-flavored-ruby?version=3.2#top) が継続
 
