@@ -3,7 +3,7 @@
 
 ## リポジトリ
 
-- [提出用リポジトリ](repositories.md)
+- [提出用リポジトリ](https://github.com/DevelopmentPractice201405/DevelopmentPractice201405/blob/master/ripositories.md)
 
 ## 第九回以降
 
