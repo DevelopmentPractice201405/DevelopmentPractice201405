@@ -1,6 +1,10 @@
 プログラミング演習講義メモ
 =========================
 
+## リポジトリ
+
+- [提出用リポジトリ](repositories.md)
+
 ## 第九回以降
 
 - [RailsTutorial](http://railstutorial.jp) 着手
