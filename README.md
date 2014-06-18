@@ -1,11 +1,24 @@
 プログラミング演習講義メモ
 =========================
 
-## 第八回以降
+## 第九回以降
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
-  - [第四章 Rails風味のRuby](http://railstutorial.jp/chapters/rails-flavored-ruby?version=3.2#top) が継続
+  - [第5章 レイアウトを作成する](http://railstutorial.jp/chapters/filling-in-the-layout?version=3.2#top) が継続
+
+## 第十回 (2014.6.27) 4 コマ
+
+- 未定
+
+## 第九回 (2014.6.25) 4 コマ
+
+- [第5章 レイアウトを作成する](http://railstutorial.jp/chapters/filling-in-the-layout?version=3.2#top)
+
+リポジトリの報告をお願いします。
+
+- ヤマウチさん
+- シマブクロさん
 
 ## 第八回 (2014.6.18) 4 コマ
 
