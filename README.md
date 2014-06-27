@@ -5,11 +5,11 @@
 
 - [提出用リポジトリ](https://github.com/DevelopmentPractice201405/DevelopmentPractice201405/blob/master/ripositories.md)
 
-## 第十回以降
+## 第十一回以降
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
-  - [第6章 ユーザーのモデルを作成する](http://railstutorial.jp/chapters/modeling-users?version=4.0#top) が継続
+  - [第7章 ユーザー登録](http://railstutorial.jp/chapters/sign-up?version=4.0#top) が継続
 
 ## 第十一回 (2014.7.4) 4 コマ
 
