@@ -16,9 +16,6 @@
 - [オオシロ](http://github.com/DevelopmentPractice201405/syougo_app)
 - [カワヒラ](http://github.com/DevelopmentPractice201405/kawahira-app)
 - [シマブクロ](http://github.com/DevelopmentPractice201405/shimabukuro_app)
-
-未提示
-
-- ヤマウチ
+- [ヤマウチ](http://github.com/DevelopmentPractice201405/yamauchi_app)
 
 
