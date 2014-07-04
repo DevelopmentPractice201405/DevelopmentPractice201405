@@ -5,11 +5,17 @@
 
 - [提出用リポジトリ](https://github.com/DevelopmentPractice201405/DevelopmentPractice201405/blob/master/ripositories.md)
 
-## 第十一回以降
+## 第十二回以降
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
   - [第7章 ユーザー登録](http://railstutorial.jp/chapters/sign-up?version=4.0#top) が継続
+
+## 第十二回 (2014.7.9)
+
+7 章を完了したものは以下に着手してください。
+
+- [第8章 サインイン、サインアウト](http://railstutorial.jp/chapters/sign-in-sign-out?version=3.2#top)
 
 ## 第十一回 (2014.7.4) 4 コマ
 
