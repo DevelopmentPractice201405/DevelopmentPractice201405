@@ -5,11 +5,17 @@
 
 - [提出用リポジトリ](https://github.com/DevelopmentPractice201405/DevelopmentPractice201405/blob/master/ripositories.md)
 
-## 第十二回以降
+## 第十三回以降
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
-  - [第7章 ユーザー登録](http://railstutorial.jp/chapters/sign-up?version=4.0#top) が継続
+  - [第8章 サインイン、サインアウト](http://railstutorial.jp/chapters/sign-in-sign-out?version=3.2#top)
+
+## 課題
+
+第十三回実施時点で [第8章 サインイン、サインアウト](http://railstutorial.jp/chapters/sign-in-sign-out?version=3.2#top) を完了させた状態にしておくこと。評価対象の課題とし、済ませていないものについては「不可」の評価とします。
+
+また、質問などは [issue](https://github.com/DevelopmentPractice201405/DevelopmentPractice201405/issues) を使ってやりとりが可能ですので、積極的に使っていって下さい。よろしくお願いします。
 
 ## 第十二回 (2014.7.16) 4 コマ
 
