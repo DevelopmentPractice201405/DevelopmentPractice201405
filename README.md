@@ -9,7 +9,7 @@
 
 - [RailsTutorial](http://railstutorial.jp) 着手
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
-  - [第8章 サインイン、サインアウト](http://railstutorial.jp/chapters/sign-in-sign-out?version=3.2#top)
+  - [第9章 ユーザーの更新・表示・削除](http://railstutorial.jp/chapters/updating-showing-and-deleting-users?version=3.2#top)
 
 ## 課題
 
