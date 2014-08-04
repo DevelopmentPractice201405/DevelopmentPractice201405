@@ -15,6 +15,8 @@
 
 ## 第十三回 (2014.8.6) 3 コマ
 
+- [第9章 ユーザーの更新・表示・削除](http://railstutorial.jp/chapters/updating-showing-and-deleting-users?version=3.2#top)
+
 ## 課題
 
 第十三回実施時点で [第8章 サインイン、サインアウト](http://railstutorial.jp/chapters/sign-in-sign-out?version=3.2#top) を完了させた状態にしておくこと。評価対象の課題とし、済ませていないものについては「不可」の評価とします。
