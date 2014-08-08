@@ -11,7 +11,9 @@
   - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
   - [第9章 ユーザーの更新・表示・削除](http://railstutorial.jp/chapters/updating-showing-and-deleting-users?version=3.2#top)
 
-## 第十四回 (2014.8.8) 3 コマ
+## 第十五回 (2014.8.15) 3 コマ
+
+## 第十四回 (2014.8.13) 4 コマ
 
 ## 第十三回 (2014.8.6) 3 コマ
 
