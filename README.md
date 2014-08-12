@@ -15,6 +15,8 @@
 
 ## 第十四回 (2014.8.13) 4 コマ
 
+以降については他の先生も入ってすすめているようですので、個別に進捗確認と問題処理をする形ですすめていきます。
+
 ## 第十三回 (2014.8.6) 3 コマ
 
 - [第9章 ユーザーの更新・表示・削除](http://railstutorial.jp/chapters/updating-showing-and-deleting-users?version=3.2#top)
