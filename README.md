@@ -5,11 +5,46 @@
 
 - [提出用リポジトリ](https://github.com/DevelopmentPractice201405/DevelopmentPractice201405/blob/master/ripositories.md)
 
-## 第十三回以降
+## 第十八回以降
 
-- [RailsTutorial](http://railstutorial.jp) 着手
-  - 対象となる Rails のバージョンは 3.2 としていますので注意して下さい
-  - [第9章 ユーザーの更新・表示・削除](http://railstutorial.jp/chapters/updating-showing-and-deleting-users?version=3.2#top)
+- グループで課題に着手
+
+## チュートリアル提出について
+
+週末までの成果を GitHub に push してください。
+
+## 第十七回 (2014.8.21) 4 コマ
+
+## 第十六回 (2014.8.18) 4 コマ
+
+### 演習問題について
+
+11 章を終えた者は 5 章以降の演習問題に着手願います。例えば 5 章の演習 5.6.1 に着手するとします。まず 5 章の branch が存在するかを確認します。
+
+    $ git branch
+
+filling-in-layout という branch が存在することを確認したらその branch を checkout します。
+
+    $ git checkout filling-in-layout
+
+そしてそこからさらに branch します。
+
+    $ git checkout -b 5-6-1
+
+この branch に実装を盛り込んで動作確認が正常であれば commit を作ります。
+
+    $ git add .
+    $ git commit -m '5-6-1'
+
+GitHub に issue を作って pull request してみても良いかもしれません。次の課題に着手する時には一旦元の branch に戻ります。
+
+    $ git checkout filling-in-layout
+
+ここから次の演習の branch を作ります。
+
+    $ git checkout -b 5-6-2
+
+提出については面倒ですが全ての branch を GitHub に push してください。
 
 ## 第十五回 (2014.8.15) 3 コマ
 
