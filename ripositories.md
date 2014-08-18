@@ -3,7 +3,7 @@
 - [クバ](http://github.com/DevelopmentPractice201405/SyoutaKuba_app)
 - [イゲイ](http://github.com/DevelopmentPractice201405/ryouigei_app)
 - [アラカキ](http://github.com/DevelopmentPractice201405/ArakakiYosino)
-- [イマズ](http://github.com/DevelopmentPractice201405/imazu_app)
+- [イマズ](http://github.com/DevelopmentPractice201405/syouta_i_app)
 - [カワミツ](http://github.com/DevelopmentPractice201405/ryouta_k_app)
 - [サワムラ](http://github.com/DevelopmentPractice201405/sawamura)
 - [カネシマ](http://github.com/DevelopmentPractice201405/daisuke)
