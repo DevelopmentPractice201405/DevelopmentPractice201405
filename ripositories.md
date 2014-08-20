@@ -8,7 +8,7 @@
 - [サワムラ](http://github.com/DevelopmentPractice201405/sawamura)
 - [カネシマ](http://github.com/DevelopmentPractice201405/daisuke)
 - [シオヒラ](http://github.com/DevelopmentPractice201405/kazukishiohira_app)
-- [チナ](http://github.com/DevelopmentPractice201405/Takumi)
+- [チナ](http://github.com/DevelopmentPractice201405/takumi_app)
 - [マタヨシ](http://github.com/DevelopmentPractice201405/MatayoshiYouhei_app)
 - [ムラカミ](http://github.com/DevelopmentPractice201405/murakami_app)
 - [ヤスムラ](http://github.com/DevelopmentPractice201405/ikkiyasumura_app)
