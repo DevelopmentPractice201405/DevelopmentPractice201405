@@ -10,7 +10,7 @@
 - [シオヒラ](http://github.com/DevelopmentPractice201405/kazukishiohira_app)
 - [チナ](http://github.com/DevelopmentPractice201405/takumi_app)
 - [マタヨシ](http://github.com/DevelopmentPractice201405/MatayoshiYouhei_app)
-- [ムラカミ](http://github.com/DevelopmentPractice201405/murakami_app)
+- [ムラカミ](http://github.com/DevelopmentPractice201405/hiroaki_app)
 - [ヤスムラ](http://github.com/DevelopmentPractice201405/ikkiyasumura_app)
 - [タバ](http://github.com/DevelopmentPractice201405/kakzukitaba_app)
 - [オオシロ](http://github.com/DevelopmentPractice201405/syougo_app)
