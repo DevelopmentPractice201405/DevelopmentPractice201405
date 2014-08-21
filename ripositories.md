@@ -14,7 +14,7 @@
 - [ヤスムラ](http://github.com/DevelopmentPractice201405/ikkiyasumura_app)
 - [タバ](http://github.com/DevelopmentPractice201405/kakzukitaba_app)
 - [オオシロ](http://github.com/DevelopmentPractice201405/syougo_app)
-- [カワヒラ](http://github.com/DevelopmentPractice201405/kawahira-app)
+- [カワヒラ]https://github.com/DevelopmentPractice201405/kawahirataku_app.git
 - [シマブクロ](http://github.com/DevelopmentPractice201405/shimabukuro_app)
 - [ヤマウチ](http://github.com/DevelopmentPractice201405/yamauchi_app)
 
