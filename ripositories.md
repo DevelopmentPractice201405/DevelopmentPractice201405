@@ -12,7 +12,7 @@
 - [マタヨシ](http://github.com/DevelopmentPractice201405/MatayoshiYouhei_app)
 - [ムラカミ](http://github.com/DevelopmentPractice201405/hiroaki_app)
 - [ヤスムラ](http://github.com/DevelopmentPractice201405/ikkiyasumura_app)
-- [タバ](http://github.com/DevelopmentPractice201405/kakzukitaba_app)
+- [タバ](http://github.com/DevelopmentPractice201405/tabakazuki)
 - [オオシロ](http://github.com/DevelopmentPractice201405/syougo_app)
 - [カワヒラ](https://github.com/DevelopmentPractice201405/kawahirataku_app.git)
 - [シマブクロ](http://github.com/DevelopmentPractice201405/shimabukuro_app)
