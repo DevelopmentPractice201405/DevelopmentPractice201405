@@ -1,23 +1,22 @@
 プログラミング演習講義メモ
 =========================
 
-## リポジトリ
-
-- [提出用リポジトリ](https://github.com/DevelopmentPractice201405/DevelopmentPractice201405/blob/master/ripositories.md)
-
 ## 第十八回以降
 
 - グループで課題に着手
 
-
 ## 第十九回 (2014.8.27) 3 コマ
 
-## 第十八回 (2014.8.25) 4 コ
+## 第十八回 (2014.8.25) 4 コマ
 
 - 役割分担決めてもらいます
 - 課題設定してもらいます
 - リポジトリを作成してもらいます
 - 可能であれば pull request の練習をしてみてください
+
+## リポジトリ
+
+- [提出用リポジトリ](https://github.com/DevelopmentPractice201405/DevelopmentPractice201405/blob/master/ripositories.md)
 
 ## チュートリアル提出について
 
