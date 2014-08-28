@@ -5,7 +5,25 @@
 
 - グループで課題に着手
 
+## 第二十一回 (2014.9.5) 4 コマ
+
+## 第二十回 (2014.9.3) 3 コマ
+
 ## 第十九回 (2014.8.27) 3 コマ
+
+リモートリポジトから clone してテストを実行する方法
+
+    $ git clone <project>
+    $ bundle install --without production
+    $ bundle exec rake db:migrate
+    $ bundle exec rake db:test:prepare
+    $ bundle exec rspec spec/
+
+また、ブランチをリモートから取得する方法は以下です。
+
+    $ git fetch orign
+    $ git checkout <branch>
+
 
 ## 第十八回 (2014.8.25) 4 コマ
 
