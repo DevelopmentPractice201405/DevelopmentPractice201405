@@ -11,6 +11,15 @@
 
 Rails4 のチュートリアルが完了したら Heroku に push しておいてください。URL は README などに記載のこと。
 
+## 自動で merge できない場合の対処について
+
+    $ git fetch origin
+    $ git checkout master
+    $ git merge origin/master
+    $ git checkout <branch-name>
+    $ git merge master
+    $ git push origin <branch-name>
+
 ## 第二十五回 4 コマ
 
 ## 第二十四回 4 コマ
